@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="TestGenerator" srclang="en"/>
+  <body>
+    <tu id="1">
+      <tuv xml:lang="en"><seg>The agreement is subject to the jurisdiction of the competent courts.</seg></tuv>
+      <tuv xml:lang="es"><seg>El convenio está sujeto a la jurisdicción de los tribunales competentes.</seg></tuv>
+    </tu>
+    <tu id="2">
+      <tuv xml:lang="en"><seg>The agreement may be terminated by either party with 30 days notice.</seg></tuv>
+      <tuv xml:lang="es"><seg>El contrato podrá rescindirse por cualquiera de las partes con 30 días de preaviso.</seg></tuv>
+    </tu>
+    <tu id="3">
+      <tuv xml:lang="en"><seg>Personal data includes name, address, and identification number.</seg></tuv>
+      <tuv xml:lang="es"><seg>Los datos personales incluyen nombre, dirección y número de identificación.</seg></tuv>
+    </tu>
+    <tu id="4">
+      <tuv xml:lang="en"><seg>The processing of personal data requires explicit consent.</seg></tuv>
+      <tuv xml:lang="es"><seg>El procesamiento de datos personales requiere consentimiento explícito.</seg></tuv>
+    </tu>
+    <tu id="5">
+      <tuv xml:lang="en"><seg>The deadline for appeals is fifteen business days.</seg></tuv>
+      <tuv xml:lang="es"><seg>El plazo para interponer recursos es de quince días hábiles.</seg></tuv>
+    </tu>
+    <tu id="6">
+      <tuv xml:lang="en"><seg>The deadline for payment is specified in the invoice.</seg></tuv>
+      <tuv xml:lang="es"><seg>La fecha límite de pago se especifica en la factura.</seg></tuv>
+    </tu>
+    <tu id="7">
+      <tuv xml:lang="en"><seg>Software components must meet current security standards.</seg></tuv>
+      <tuv xml:lang="es"><seg>Los componentes de software deben cumplir los estándares de seguridad vigentes.</seg></tuv>
+    </tu>
+    <tu id="8">
+      <tuv xml:lang="en"><seg>The software vendor shall provide technical support.</seg></tuv>
+      <tuv xml:lang="es"><seg>El proveedor del programa informático prestará soporte técnico.</seg></tuv>
+    </tu>
+    <tu id="9">
+      <tuv xml:lang="en"><seg>The data controller must notify the supervisory authority of any breach.</seg></tuv>
+      <tuv xml:lang="es"><seg>El controlador de datos debe notificar a la autoridad supervisora cualquier brecha.</seg></tuv>
+    </tu>
+    <tu id="10">
+      <tuv xml:lang="en"><seg>User consent must be freely given, specific, and unambiguous.</seg></tuv>
+      <tuv xml:lang="es"><seg>El consentimiento del usuario debe ser libre, específico e inequívoco.</seg></tuv>
+    </tu>
+    <tu id="11">
+      <tuv xml:lang="en"><seg>The contract includes warranties and liability limitations.</seg></tuv>
+      <tuv xml:lang="es"><seg>El acuerdo incluye garantías y limitaciones de responsabilidad.</seg></tuv>
+    </tu>
+    <tu id="12">
+      <tuv xml:lang="en"><seg>Updates to this contract require written consent from both parties.</seg></tuv>
+      <tuv xml:lang="es"><seg>Las modificaciones a este contrato requieren consentimiento escrito de ambas partes.</seg></tuv>
+    </tu>
+  </body>
+</tmx>

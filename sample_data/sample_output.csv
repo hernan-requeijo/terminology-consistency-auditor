@@ -1,0 +1,63 @@
+﻿Severity,Source (EN),# Variants,Total Occurrences,Dominant Translation (ES),All Variants (ES),Origins
+CRITICAL,Data,11,17,los datos personales,las actividades (1x) | los datos personales (3x) | datos de carácter (1x) | el responsable (1x) | datos personales requiere (1x) | el controlador de (3x) | de carácter personal (1x) | responsable del (2x) | 3. protección de (1x) | personales debe cumplir (2x) | procesen datos personales (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,Software,11,13,las actualizaciones,las actualizaciones (2x) | el programa debe (1x) | los términos (1x) | los componentes (1x) | el proveedor del (1x) | programa informático (1x) | el software bajo (1x) | el programa se (2x) | descompilar el software (1x) | la licencia del (1x) | del programa informático (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,Personal,7,10,de datos personales,los datos (2x) | los datos de (1x) | de datos personales (3x) | datos de (1x) | datos de carácter (1x) | se procesen datos (1x) | todos los datos (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,Personal data,10,10,los datos personales se,"los datos personales se (1x) | los datos de carácter personal (1x) | los datos personales incluyen nombre (1x) | procesamiento de datos personales requiere consentimiento (1x) | datos de carácter personal"" son (1x) | tratamiento de datos personales (1x) | de datos personales debe cumplir con (1x) | los datos de carácter personal se (1x) | que se procesen datos personales sensibles (1x) | todos los datos personales se (1x)",corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,agreement,7,7,el contrato debe,el contrato debe (1x) | el acuerdo será (1x) | el convenio está (1x) | el contrato podrá (1x) | del presente acuerdo (1x) | terminado este acuerdo (1x) | el convenio también (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,deadline,7,7,el plazo de,el plazo de (1x) | el término podrá (1x) | el plazo para (1x) | la fecha límite (1x) | fecha límite para (1x) | el término para (1x) | plazo de pago (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,days,7,7,treinta días,treinta días (1x) | 30 días de (1x) | días hábiles (1x) | días desde su (1x) | días a partir (1x) | treinta días antes (1x) | sesenta días de (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,user,5,6,el usuario,"el usuario (2x) | el consentimiento (1x) | usuario"" significa (1x) | vende, al usuario (1x) | el usuario deberá (1x)",corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,consent,6,6,consentimiento informado,consentimiento informado (1x) | consentimiento explícito (1x) | el consentimiento del (1x) | consentimiento escrito de (1x) | previo por escrito (1x) | consentimiento explícito antes (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,contract,4,4,el contrato se,el contrato se (1x) | el acuerdo incluye (1x) | a este contrato (1x) | 5. rescisión del (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,data controller,4,4,el responsable del tratamiento es,"el responsable del tratamiento es (1x) | el controlador de datos debe (1x) | responsable del fichero"" es la (1x) | el controlador de datos es responsable (1x)",corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,written,4,4,previa solicitud escrita,previa solicitud escrita (1x) | contrato requieren consentimiento (1x) | consentimiento previo por (1x) | de preaviso por (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+CRITICAL,license,4,4,licencia válida,"licencia válida (1x) | 2. licencia y (1x) | se licencia, no (1x) | del programa (1x)",terms_en.txt ↔ terms_es.txt
+HIGH,processing,3,4,el procesamiento de,las actividades de (1x) | el procesamiento de (2x) | del tratamiento de (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,controller,3,4,controlador de datos,responsable del tratamiento (1x) | controlador de datos (2x) | responsable del fichero (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,updates,3,4,actualizaciones y parches,actualizaciones de software (1x) | las modificaciones (1x) | actualizaciones y parches (2x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,means,3,4,"fichero"" es la","usuario"" significa cualquier (1x) | carácter personal"" son (1x) | fichero"" es la (2x)",terms_en.txt ↔ terms_es.txt
+HIGH,provide,3,3,usuario debe otorgar,usuario debe otorgar (1x) | programa informático prestará (1x) | usuarios deben otorgar (1x),corpus_01.tmx | corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,thirty days,3,3,es de treinta días,es de treinta días (1x) | de treinta días desde su publicación (1x) | renovación enviado treinta días antes del (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,installed,3,3,instalarse en un,instalarse en un (1x) | en un plazo (1x) | todas las copias (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,party,3,3,partes con 30,partes con 30 (1x) | de las partes (1x) | las partes (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,notice,3,3,de preaviso,de preaviso (1x) | aviso de renovación (1x) | por escrito (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,either party,3,3,de las partes con 30 días,de las partes con 30 días (1x) | cualquiera de las partes puede (1x) | cualquiera de las partes (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,payment,3,3,límite de pago,límite de pago (1x) | inicial es de (1x) | pago puede resultar (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+HIGH,USE,3,3,y uso,"y uso (1x) | vende, al usuario (1x) | el usuario deberá (1x)",terms_en.txt ↔ terms_es.txt
+LOW,thirty,2,3,de treinta días,de treinta días (2x) | renovación enviado treinta (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,either,2,3,de las partes,de las partes (2x) | cualquiera de (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,laws,2,2,las leyes del,las leyes del (1x) | de protección de (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,comply,2,2,datos deben cumplir,datos deben cumplir (1x) | cumplir con todas (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,applicable,2,2,cumplir con la,cumplir con la (1x) | las leyes y (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,regulations,2,2,la normativa aplicable,la normativa aplicable (1x) | de datos aplicables (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,processed,2,2,personales se procesarán,personales se procesarán (1x) | personales sensibles (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,lawfully,2,2,procesarán lícitamente,procesarán lícitamente (1x) | recopilen de manera (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,stored,2,2,deben almacenarse de,deben almacenarse de (1x) | se almacenarán de (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,stored securely,2,2,deben almacenarse de forma segura,deben almacenarse de forma segura (1x) | se almacenarán de forma segura mediante (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,responsible,2,2,tratamiento es responsable,tratamiento es responsable (1x) | es responsable de (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,controller is responsible,2,2,responsable del tratamiento es responsable del cumplimiento,responsable del tratamiento es responsable del cumplimiento (1x) | de datos es responsable de garantizar que (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,data controller is responsible,2,2,el responsable del tratamiento es responsable del cumplimiento,el responsable del tratamiento es responsable del cumplimiento (1x) | el controlador de datos es responsable de garantizar que los (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,upon,2,2,prorrogarse previa solicitud,prorrogarse previa solicitud (1x) | tras la (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,Software updates,2,2,las actualizaciones de software se,las actualizaciones de software se (1x) | las actualizaciones y parches del (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,terms,2,2,del software se,del software se (1x) | términos y (1x),corpus_01.tmx | terms_en.txt ↔ terms_es.txt
+LOW,terminated,2,2,por cualquiera de,por cualquiera de (1x) | rescindirse de inmediato (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,includes,2,2,datos personales incluyen,datos personales incluyen (1x) | acuerdo incluye garantías (1x),corpus_02.tmx
+LOW,explicit,2,2,requiere consentimiento explícito,requiere consentimiento explícito (1x) | deben otorgar consentimiento (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,explicit consent,2,2,personales requiere consentimiento explícito,personales requiere consentimiento explícito (1x) | deben otorgar consentimiento explícito antes de (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,processing of personal,2,2,el procesamiento de datos personales requiere consentimiento,el procesamiento de datos personales requiere consentimiento (1x) | el procesamiento de datos personales debe cumplir (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,processing of personal data,2,2,el procesamiento de datos personales requiere consentimiento explícito,el procesamiento de datos personales requiere consentimiento explícito (1x) | el procesamiento de datos personales debe cumplir con todas las (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,fifteen,2,2,es de quince,es de quince (1x) | quince días a (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,invoice,2,2,la factura,la factura (1x) | de la factura (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,deadline for payment,2,2,la fecha límite de pago se especifica,la fecha límite de pago se especifica (1x) | plazo de pago puede resultar en la (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,meet,2,2,deben cumplir los,deben cumplir los (1x) | incumplimiento del plazo (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,support,2,2,soporte técnico,soporte técnico (1x) | de soporte. todas (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,breach,2,2,cualquier brecha,cualquier brecha (1x) | por cualquiera de (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,written consent,2,2,contrato requieren consentimiento escrito de ambas,contrato requieren consentimiento escrito de ambas (1x) | sin consentimiento previo por escrito del (1x),corpus_02.tmx | terms_en.txt ↔ terms_es.txt
+LOW,DEFINITIONS,2,2,1. definiciones,1. definiciones (1x) | aplican las siguientes (1x),terms_en.txt ↔ terms_es.txt
+LOW,purposes,2,2,a los efectos,a los efectos (1x) | los fines y (1x),terms_en.txt ↔ terms_es.txt
+LOW,provided,2,2,proporcionadas en virtud,proporcionadas en virtud (1x) | informático se proporcionan (1x),terms_en.txt ↔ terms_es.txt
+LOW,under,2,2,en virtud del,en virtud del (1x) | software bajo una (1x),terms_en.txt ↔ terms_es.txt
+LOW,PROTECTION,2,2,protección de datos,protección de datos (1x) | reglamentos de protección (1x),terms_en.txt ↔ terms_es.txt
+LOW,DATA PROTECTION,2,2,3. protección de datos,3. protección de datos (1x) | leyes y reglamentos de protección de (1x),terms_en.txt ↔ terms_es.txt
+LOW,before,2,2,explícito antes de,explícito antes de (1x) | días antes del (1x),terms_en.txt ↔ terms_es.txt
+LOW,TERMINATION,2,2,del contrato,"del contrato (1x) | la rescisión, el (1x)",terms_en.txt ↔ terms_es.txt

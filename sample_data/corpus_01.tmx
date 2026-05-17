@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="TestGenerator" srclang="en"/>
+  <body>
+    <tu id="1">
+      <tuv xml:lang="en"><seg>The contract shall be governed by the laws of the state.</seg></tuv>
+      <tuv xml:lang="es"><seg>El contrato se regirá por las leyes del estado.</seg></tuv>
+    </tu>
+    <tu id="2">
+      <tuv xml:lang="en"><seg>The agreement must be signed by both parties.</seg></tuv>
+      <tuv xml:lang="es"><seg>El contrato debe ser firmado por ambas partes.</seg></tuv>
+    </tu>
+    <tu id="3">
+      <tuv xml:lang="en"><seg>The agreement will be reviewed annually.</seg></tuv>
+      <tuv xml:lang="es"><seg>El acuerdo será revisado anualmente.</seg></tuv>
+    </tu>
+    <tu id="4">
+      <tuv xml:lang="en"><seg>Data processing activities must comply with applicable regulations.</seg></tuv>
+      <tuv xml:lang="es"><seg>Las actividades de tratamiento de datos deben cumplir con la normativa aplicable.</seg></tuv>
+    </tu>
+    <tu id="5">
+      <tuv xml:lang="en"><seg>The user must provide informed consent.</seg></tuv>
+      <tuv xml:lang="es"><seg>El usuario debe otorgar consentimiento informado.</seg></tuv>
+    </tu>
+    <tu id="6">
+      <tuv xml:lang="en"><seg>Personal data shall be processed lawfully.</seg></tuv>
+      <tuv xml:lang="es"><seg>Los datos personales se procesarán lícitamente.</seg></tuv>
+    </tu>
+    <tu id="7">
+      <tuv xml:lang="en"><seg>Personal data must be stored securely.</seg></tuv>
+      <tuv xml:lang="es"><seg>Los datos de carácter personal deben almacenarse de forma segura.</seg></tuv>
+    </tu>
+    <tu id="8">
+      <tuv xml:lang="en"><seg>The data controller is responsible for compliance.</seg></tuv>
+      <tuv xml:lang="es"><seg>El responsable del tratamiento es responsable del cumplimiento.</seg></tuv>
+    </tu>
+    <tu id="9">
+      <tuv xml:lang="en"><seg>The deadline for submission is thirty days.</seg></tuv>
+      <tuv xml:lang="es"><seg>El plazo de presentación es de treinta días.</seg></tuv>
+    </tu>
+    <tu id="10">
+      <tuv xml:lang="en"><seg>The deadline may be extended upon written request.</seg></tuv>
+      <tuv xml:lang="es"><seg>El término podrá prorrogarse previa solicitud escrita.</seg></tuv>
+    </tu>
+    <tu id="11">
+      <tuv xml:lang="en"><seg>Software updates are released quarterly.</seg></tuv>
+      <tuv xml:lang="es"><seg>Las actualizaciones de software se publican trimestralmente.</seg></tuv>
+    </tu>
+    <tu id="12">
+      <tuv xml:lang="en"><seg>The software must be installed on a secure server.</seg></tuv>
+      <tuv xml:lang="es"><seg>El programa debe instalarse en un servidor seguro.</seg></tuv>
+    </tu>
+    <tu id="13">
+      <tuv xml:lang="en"><seg>Software licensing terms are described in Annex A.</seg></tuv>
+      <tuv xml:lang="es"><seg>Los términos de licencia del software se describen en el Anexo A.</seg></tuv>
+    </tu>
+  </body>
+</tmx>
